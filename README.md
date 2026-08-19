@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Online Medical Consultation System
 
 The OMCS is an online service that allows patients and doctors to effectively communicate with each other from the comfort of their homes. It provides necessary facilities of consultation booking, physical appointment booking, providing online prescriptions, and a two-way feedback system.
@@ -70,3 +71,7 @@ APP_PASSWORD = # contact us to fill this field
 1) [`Sharanya Chakraborty`](https://github.com/destryptor)
 2) [`T. Shiva Chaitanya`](https://github.com/shivachaits)
 3) [`Jatin Mahawar`](https://github.com/jatinsm2023)
+=======
+# OMCS-PROJECT
+JEEVAN
+>>>>>>> 6f712bfc2a0a2aa2888981c4acc0dbd1ef640988

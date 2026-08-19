@@ -5,7 +5,7 @@ import UpdateProfile from './Pages/UpdateProfile';
 import Navbar from './Components/Navbar';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import DoctorDashBoard from './Pages/DoctorDashBoard';
-import PatientDashBoard from './Pages/PatientDashBoard';
+import PatientDashBoard from './Pages/PatientDashboard';
 function App() {
 	return (
 		<>

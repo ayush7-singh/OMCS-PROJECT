@@ -66,12 +66,3 @@ APP_PASSWORD = # contact us to fill this field
 - Receive notifications when a patient provides a feedback
 - Reply to the beforementioned feedback
 
-## Credits
-### For any querries, bugs or doubts, please contact any of the three contributors:
-1) [`Sharanya Chakraborty`](https://github.com/destryptor)
-2) [`T. Shiva Chaitanya`](https://github.com/shivachaits)
-3) [`Jatin Mahawar`](https://github.com/jatinsm2023)
-=======
-# OMCS-PROJECT
-JEEVAN
->>>>>>> 6f712bfc2a0a2aa2888981c4acc0dbd1ef640988
